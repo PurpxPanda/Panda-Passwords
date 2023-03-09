@@ -6,7 +6,7 @@ Installation
 To install the password generator, simply download or clone the repository to your local machine.
 
 Usage
-To use the password generator, simply hit the generate password button and a new random password will be generated for you.
+To use the password generator, simply hit the generate password button and answer a series of questions about what kind of password you need and a new random password will be generated for you.
 
 Contributing
 If you would like to contribute to the password generator, feel free to fork the repository and submit a pull request.
