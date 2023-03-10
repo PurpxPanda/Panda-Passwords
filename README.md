@@ -36,4 +36,5 @@ Credits:
 The password generator was created by PurpxPanda.
 
 
-Deployed Application: https://purpxpanda.github.io/Panda-Passwords/index.html
+Deployed Application: https://purpxpanda.github.io/Panda-Passwords/Public
+
